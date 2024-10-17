@@ -1,0 +1,24 @@
+body{
+   background-color: aqua; 
+}   
+h1{
+    text-align: center;
+    margin-top: 3%;
+}
+input{
+    margin-left: 43%;
+    padding: 10px;
+    border-color: black;
+}
+.aclass{
+    margin-left: 43%;
+    
+}
+button{
+    border-color: black;
+    border-width: 5px;
+}
+.img{
+    margin-left: 38%;
+    padding-top: 10px;
+}
